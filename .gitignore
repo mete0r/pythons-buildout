@@ -1,0 +1,5 @@
+.*.sw?
+.installed.cfg
+bin
+lib
+parts
